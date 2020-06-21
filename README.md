@@ -12,9 +12,7 @@
 
 ------
 ### License
-+ Copyright©KENNARD_WANG 2019.8.17
-
-  > If you want to use these models, please give me credit by adding the foregoing license, thanks.
++ [BSD License]https://github.com/KennardWang/3D-Model_Selfmade/blob/master/LICENSE
 ------
 ### Author
 + Kennard Wang
