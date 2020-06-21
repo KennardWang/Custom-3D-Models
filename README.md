@@ -12,7 +12,7 @@
 
 ------
 ### License
-+ [BSD License]https://github.com/KennardWang/3D-Model_Selfmade/blob/master/LICENSE
++ [BSD License](https://github.com/KennardWang/3D-Model_Selfmade/blob/master/LICENSE)
 ------
 ### Author
 + Kennard Wang
