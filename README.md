@@ -1,4 +1,4 @@
-# 3D models made with Blender
+# 3D-Model_Selfmade
 ### Model Demo
 + M16A1
 
@@ -10,6 +10,9 @@
 
 ![tank](https://kennardwang.github.io/ImageSource/3D-Model/tank.png)
 
+------
+### Software
++ Blender v2.78
 ------
 ### License
 + [BSD License](https://github.com/KennardWang/3D-Model_Selfmade/blob/master/LICENSE)
