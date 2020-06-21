@@ -15,5 +15,5 @@
 + [BSD License](https://github.com/KennardWang/3D-Model_Selfmade/blob/master/LICENSE)
 ------
 ### Author
-+ Kennard Wang
++ Kennard Wang ( 2019.8.16 )
 ------
