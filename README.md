@@ -46,7 +46,7 @@ It is a practice project for the author after self-learning Blender.
 + Clone the repos:
 
   ```
-  https://github.com/KennardWang/Custom-3D-Models.git
+  git clone https://github.com/KennardWang/Custom-3D-Models.git
   ```
 
 
