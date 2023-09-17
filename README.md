@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/github/forks/KennardWang/Custom-3D-Models?style=for-the-badge&color=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Blender-v2.78-E87D0D?style=for-the-badge" />
 </div>
 
 <br>
