@@ -1,9 +1,11 @@
 # Custom-3D-Models
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/KennardWang/Custom-3D-Models" />
-  <img src="https://img.shields.io/github/license/KennardWang/Custom-3D-Models" />
-  <img src="https://img.shields.io/badge/maintenance-No-red" />
+  <img src="https://img.shields.io/github/stars/KennardWang/Custom-3D-Models?style=for-the-badge&color=FDEE21" />
+  &nbsp;
+  <img src="https://img.shields.io/github/forks/KennardWang/Custom-3D-Models?style=for-the-badge&color=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" />
 </div>
 
 <br>
@@ -59,7 +61,7 @@ Open the `.fbx` file in 3D view.
 
 ## Maintainers
 
-[@KennardWang](https://github.com/KennardWang).
+![badge](https://img.shields.io/badge/maintenance-NO-EF2D5E) [@KennardWang](https://github.com/KennardWang)
 
 
 
@@ -71,4 +73,4 @@ Feel free to [open an issue](https://github.com/KennardWang/Custom-3D-Models/iss
 
 ## License
 
-[BSD-3-Clause](LICENSE) © Kennard Wang. ( 2019.8.16 )
+[![license](https://img.shields.io/github/license/KennardWang/Custom-3D-Models)](LICENSE) © Kennard Wang ( 2019.8.16 )
