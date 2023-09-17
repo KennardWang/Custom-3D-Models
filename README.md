@@ -7,7 +7,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Blender-v2.78-E87D0D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
 </div>
 
 <br>
