@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  [![description](https://img.shields.io/badge/project-Individual-1F1F1F?style=for-the-badge)](https://github.com/KennardWang/Custom-3D-Models)
+  [![description](https://img.shields.io/badge/project-Individual-FFB7C5?style=for-the-badge)](https://github.com/KennardWang/Custom-3D-Models)
   &nbsp;
   [![stars](https://img.shields.io/github/stars/KennardWang/Custom-3D-Models?style=for-the-badge&color=FDEE21)](https://github.com/KennardWang/Custom-3D-Models/stargazers)
   &nbsp;
@@ -18,9 +18,9 @@
 <br>
 
 <div align=center>
-  <img src="https://kennardwang.github.io/ImageSource/3D-Models/ak12.png" height="150px" />
-  <img src="https://kennardwang.github.io/ImageSource/3D-Models/m16a1.png" height="150px"/>
-  <img src="https://kennardwang.github.io/ImageSource/3D-Models/tank.png" height="150px" />
+  <img src="https://kennardwang.github.io/Image-Source/Custom-3D-Models/ak12.png" height="150px" />
+  <img src="https://kennardwang.github.io/Image-Source/Custom-3D-Models/m16a1.png" height="150px"/>
+  <img src="https://kennardwang.github.io/Image-Source/Custom-3D-Models/tank.png" height="150px" />
 </div>
  
 <br>
